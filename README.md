@@ -7,4 +7,4 @@ más bien, en solucionar problemas críticos que en este ámbito profesional nun
 algunas de estas tareas repetitivas para aumentar la productividad, dedicando la mayor parte del tiempo en dar solución a aquellos sucesos o incidencias que 
 exigen una respuesta inmediata o seguimiento continuo.
 
-!['Menú principal de TICs.bat'](C:\Users\Cecilia Moris\Pictures\TICs_capturas\TICs_menuPrincipal.png){width='100px'}
+![Menú principal de TICs.bat](C:/Users/Cecilia Moris/Pictures/TICs_capturas/TICs_menuPrincipal.png)
