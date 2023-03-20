@@ -7,9 +7,8 @@ más bien, en solucionar problemas críticos que en este ámbito profesional nun
 algunas de estas tareas repetitivas para aumentar la productividad, dedicando la mayor parte del tiempo en dar solución a aquellos sucesos o incidencias que 
 exigen una respuesta inmediata o seguimiento continuo.
 
-
+##### Menú principal
 [![TICs-menu-Principal.png](https://i.postimg.cc/8zcjgqnj/TICs-menu-Principal.png)](https://postimg.cc/w1K6hbzp)
-
 
 > #### Tareas a realizar para mejorar el rendimiento de TICs.bat.
 ___
