@@ -6,6 +6,3 @@ por su naturaleza monótona y predecible, pueden llegar a automatizarse para, de
 más bien, en solucionar problemas críticos que en este ámbito profesional nunca faltan. Tics.bat es un kit de herramientas que intenta automatizar 
 algunas de estas tareas repetitivas para aumentar la productividad, dedicando la mayor parte del tiempo en dar solución a aquellos sucesos o incidencias que 
 exigen una respuesta inmediata o seguimiento continuo.
-
-<image src="https://github.com/eddymoris/Tics.bat/main/TICs_menuPrincipal.png" alt="Descripción de la imagen">
-![Menú principal de TICs.bat](https://github.com/eddymoris/Tics.bat/main/TICs_menuPrincipal.png)
