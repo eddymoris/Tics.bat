@@ -1,5 +1,5 @@
 # Tics.bat
-#### Gestión automatizada de tareas rutinarias que se presentan en un departamento de TICs.
+#### **Gestión automatizada de tareas rutinarias que se presentan en un departamento de TICs.**
 
 Los administradores de sistemas, de redes o de departamento de TICs se enfrentan a menudo con tareas repetitivas y poco gratificantes, todas ellas,
 por su naturaleza monótona y predecible, pueden llegar a automatizarse para, de esta forma, optimizar recursos tan valiosos como el tiempo, que debería invertirse, 
