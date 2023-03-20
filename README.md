@@ -20,4 +20,4 @@ ___
 * [ ] Implementación de una interfaz gráfica.
 * [ ] Optimización del código y recursos.
 
-¿Te atreves a colaborar en este proyecto? 😄 👍 🇪🇨
+¿Te atreves a colaborar en este proyecto? 😄 👍 :ecuador:
