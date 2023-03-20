@@ -10,12 +10,12 @@ exigen una respuesta inmediata o seguimiento continuo.
 ##### Menú principal
 [![TICs-menu-Principal.png](https://i.postimg.cc/8zcjgqnj/TICs-menu-Principal.png)](https://postimg.cc/w1K6hbzp)
 
----
+___
 > #### Tareas a realizar para mejorar el rendimiento de TICs.bat.
 ___
 
 * [x] Implementación para ejecutar en CMD.
-* [ ] Pruebas en Windows 7, 8, 10 y 11 de la aplicación.
+* [ ] Pruebas de las mejoras en Windows 7, 8, 10 y 11.
 * [ ] Añadir otras funcionalidades para administración de equipos en dominio.
 * [ ] Implementación de una interfaz gráfica.
 * [ ] Optimización del código y recursos.
