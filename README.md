@@ -10,6 +10,7 @@ exigen una respuesta inmediata o seguimiento continuo.
 ##### Menú principal
 [![TICs-menu-Principal.png](https://i.postimg.cc/8zcjgqnj/TICs-menu-Principal.png)](https://postimg.cc/w1K6hbzp)
 
+---
 > #### Tareas a realizar para mejorar el rendimiento de TICs.bat.
 ___
 
